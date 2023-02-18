@@ -1,0 +1,1 @@
+# php_dinamic_properties
